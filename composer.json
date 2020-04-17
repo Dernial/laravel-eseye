@@ -1,5 +1,5 @@
 {
-    "name": "michaelcooke/laravel-eseye",
+    "name": "dernial/laravel-eseye",
     "description": "A simple Laravel wrapper for SeAT's Eseye package",
     "keywords": ["laravel", "laravel-5", "esi", "eseye", "eve", "eve-online"],
     "license": "MIT",
@@ -11,8 +11,8 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "laravel/framework": "~5.5",
-        "eveseat/eseye": "^0.0.11"
+        "laravel/framework": "^7",
+        "eveseat/eseye": "^2.2.1"
     },
     "autoload": {
         "psr-4": {
